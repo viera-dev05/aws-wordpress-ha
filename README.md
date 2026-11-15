@@ -33,11 +33,12 @@ The infrastructure follows a segmented network architecture within a dedicated V
 
 ### Architecture Diagram
 
-![AWS WordPress Architecture](diagrams/aws-wordpress-ha-arch-light.drawio.png)
+![View Dark Architecture Diagram](diagrams/aws-wordpress-ha-arch-dark.drawio.png)
 
-A dark version of the architecture diagram is also available:
+A light version of the architecture diagram is also available:
 
-[View Dark Architecture Diagram](diagrams/aws-wordpress-ha-arch-dark.drawio.png)
+[AWS WordPress Architecture](diagrams/aws-wordpress-ha-arch-light.drawio.png)
+
 
 ## 3. Technologies and AWS Services
 
